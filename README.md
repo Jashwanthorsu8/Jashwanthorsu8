@@ -71,8 +71,8 @@ and developing <b>scalable full-stack solutions</b>.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 📧 Email: *(Add your email address)*
+- 💼 LinkedIn: https://www.linkedin.com/in/jashwanth-orsu-4157272a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- 📧 Email: jashwanthorsu8@gmail.com
 
 ---
 
